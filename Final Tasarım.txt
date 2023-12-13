@@ -1,0 +1,21 @@
+MüzikPortal(logo)	Ana Sayfa	Hakkımızda	Forumlar	Müzisyenler için	Etkinlikler	Duyurular	login-signup
+																loginden 																sonra profil 																ve hesap
+															     kısmı eklenecek
+
+
+				BURAYA POPÜLER FORUMDAN, DUYURULARDAN, ETKİNLİKLERDEN, MÜZİSYENLER İÇİN 
+				KISMINDAN ÖĞELER KOYULACAK VE TIKLANDIĞINDA DİREKT YÖNLENDİRME YAPACAK 
+				LAKİN HANGİ ALT BAŞLIĞA AİTSE ONUN HTML SİTESİNE YÖNLENDİRECEK
+
+
+
+
+
+
+
+
+
+				BURADA DA İLETİŞİM BİLGİLERİ VE COPYRİGHT KISMI YER ALACAK.
+
+
+9 html sitesi yeterli olur; home, about us, forums, for musicians, events, annoucments, profile, update notes, feedback, login and register
